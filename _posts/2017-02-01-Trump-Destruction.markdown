@@ -1,0 +1,24 @@
+---
+title: Stop Trump's march toward the destruction of America
+date: 2017-02-01 21:20:00 -05:00
+categories:
+- action
+main-image: "/uploads/Marathon%20Not%20Sprint.png"
+call-script-text: |-
+  Hi, my name is _________ and I'm one of Senator [Toomy/Casey]'s constituents. My zip code is ______.
+
+  I'm also a member of Indivisible Johnstown. We are Johnstown residents who oppose Trump's agenda.
+
+  1.  I'm calling to ask the Senator to repudiate the President's recent statements equivocating Nazis, KKK, white supremacists and white nationalists with those standing up for freedom and inclusiveness. At the very least, the Senate should censure the President.
+
+  2.  Given the ongoing investigation into Donald Trump's finances, his campaign's possible collusion with Russia to influence the 2016 election and, now, doubts about his fitness for office, I am asking that all judicial nominees be put on hold.
+
+  3.  At a rally in Phoenix on Tuesday, August 22, Donald Trump threatened to shut down the government in order to get funding for the wall.  I am opposed to interrupting government operations on this or any other issue.
+layout: post
+---
+
+**Specific Asks**
+
+* Oppose the alt right
+* Prevent a Trump Judicial nominees
+* No on shutting down government for funding on the wall
