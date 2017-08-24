@@ -8,8 +8,6 @@ main-image: "/uploads/Marathon%20Not%20Sprint.png"
 call-script-text: |-
   Hi, my name is _________ and I'm one of Senator [Toomy/Casey]'s constituents. My zip code is ______.
 
-  I'm also a member of Indivisible Johnstown. We are Johnstown residents who oppose Trump's agenda.
-
   1.  I'm calling to ask the Senator to repudiate the President's recent statements equivocating Nazis, KKK, white supremacists and white nationalists with those standing up for freedom and inclusiveness. At the very least, the Senate should censure the President.
 
   2.  Given the ongoing investigation into Donald Trump's finances, his campaign's possible collusion with Russia to influence the 2016 election and, now, doubts about his fitness for office, I am asking that all judicial nominees be put on hold.
@@ -22,4 +20,4 @@ layout: post
 
 * Oppose the alt right -
 * Prevent Trump Judicial nominees -
-* No on shutting down government for funding on the wall -
+* No on shutting down government for funding of the wall -
