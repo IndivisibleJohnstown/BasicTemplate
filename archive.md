@@ -1,5 +1,5 @@
 ---
-title: Calendar
+title: Contact
 position: 2
 layout: default
 ---
