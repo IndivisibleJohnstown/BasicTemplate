@@ -7,6 +7,7 @@ tags:
 - call now
 - confirmation hearing
 is featured: false
+main-image: "/uploads/Trump%20and%20Clovis.jpg"
 call-script-text: " Hi, my name is `____`, I'm a local constituent. My zip code is
   `___`. I want Representative `_____` to say NO to Sam Clovis. He is terrible choice
   for Chief Scientist at USDA. Sam Clovis not an agricultural scientist, nor is he
