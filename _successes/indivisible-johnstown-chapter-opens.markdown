@@ -16,6 +16,6 @@ Join us in our efforts to oust this authoritarian kleptocrat from the highest of
 Follow us on Facebook at Indivisible Johnstown.
 Or on Twitter at IndivisiblJtown
 
-Or keep checking back here to stay up on action that can be taken with your MoC and our upcoming events.
+Keep checking back here to stay up on action that can be taken with your MoC and our upcoming events.
 
 Welcome!
