@@ -57,9 +57,9 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: |-
-  Resisting the dangerous Trump agenda
-   through civic action
+subtitle: 'Resisting the dangerous Trump agenda
+
+'
 email: indivisiblejohnstown@gmail.com
 baseurl: 
 Key: 
