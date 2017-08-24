@@ -1,6 +1,6 @@
 ---
 title: Town Hall with or without Keith Rothfus
-date: 2017-02-03 02:10:00 -05:00
+date: 2017-06-01 14:10:00 -04:00
 categories:
 - event
 tags:
