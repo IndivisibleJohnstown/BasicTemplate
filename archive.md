@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Archives
 position: 2
 layout: default
 ---
