@@ -1,4 +1,5 @@
 ---
+title: Calendar
 position: 2
 layout: default
 ---
