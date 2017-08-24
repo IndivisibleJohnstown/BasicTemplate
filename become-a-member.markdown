@@ -1,7 +1,7 @@
 ---
 title: Become A Member
-date: 2017-02-17 03:58:00 Z
-position: 5
+date: 2017-02-16 22:58:00 -05:00
+position: 4
 mailchimp-form-embed: 
 layout: becomeAMember
 ---
