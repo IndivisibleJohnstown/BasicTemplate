@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - town hall
-main-image: "/uploads/16903207_263328324121850_6421341397699164399_o.jpg"
+main-image: "/uploads/Meet%2012th%20Candidates-Post%20Event-857efa.jpg"
 event-start-date: 2017-02-28 05:00:00 -05:00
 event-end-date: 2017-02-28 10:00:00 -05:00
 Location: Elmhurst Community Prep - 1800 98th Ave, Oakland, California 94603
