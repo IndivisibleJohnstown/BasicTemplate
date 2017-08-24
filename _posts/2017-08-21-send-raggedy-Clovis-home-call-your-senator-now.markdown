@@ -6,7 +6,7 @@ categories:
 tags:
 - call now
 - confirmation hearing
-is featured: true
+is featured: false
 call-script-text: " Hi, my name is `____`, I'm a local constituent. My zip code is
   `___`. I want Representative `_____` to say NO to Sam Clovis. He is terrible choice
   for Chief Scientist at USDA. Sam Clovis not an agricultural scientist, nor is he
