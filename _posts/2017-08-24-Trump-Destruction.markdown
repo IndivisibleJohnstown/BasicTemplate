@@ -18,7 +18,7 @@ call-script-text: |-
 layout: post
 ---
 
-**Specific Asks**
+**Specific Asks** -
 
 * Oppose the alt right -
 * Prevent Trump Judicial nominees -
