@@ -1,6 +1,7 @@
 ---
 title: Indivisible Johnstown holds meet & greet with Democratic candidates.
 date: 2017-02-06 17:07:00 -05:00
+position: 2
 main-image: "/uploads/Candidate%20Introduction.jpg"
 layout: media-item
 ---
