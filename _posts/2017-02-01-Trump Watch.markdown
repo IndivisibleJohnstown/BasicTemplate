@@ -9,7 +9,7 @@ main-image: "/uploads/constitution-burning1.jpeg"
 layout: post
 ---
 
-There's widespread belief that Donald Trump is lagging past presidents in submitting nominations for key posts in his administration.
+There's widespread belief that Donald Trump is lagging behind past presidents in submitting nominations for key posts in his administration.
 
 For the most part, that is true — except in one area that could help Trump leave behind his biggest legacy.
 
