@@ -4,6 +4,7 @@ date: 2017-02-01 18:50:00 -05:00
 tags:
 - Donald J Trump
 - Johnstown PA
+is featured: true
 main-image: "/uploads/constitution-burning1.jpeg"
 layout: post
 ---
