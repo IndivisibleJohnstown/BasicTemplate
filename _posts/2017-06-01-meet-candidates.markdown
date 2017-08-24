@@ -1,6 +1,6 @@
 ---
 title: Meet/Greet the Democratic Candidates
-date: 2017-02-19 22:11:00 -05:00
+date: 2017-06-01 12:11:00 -04:00
 categories:
 - event
 tags:
