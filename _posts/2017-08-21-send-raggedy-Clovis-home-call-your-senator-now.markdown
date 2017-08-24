@@ -1,6 +1,6 @@
 ---
 title: Send Sam Clovis Home! Call Your Senator Now!
-date: 2017-02-21 19:11:00 -05:00
+date: 2017-08-21 19:11:00 -04:00
 categories:
 - action
 tags:
