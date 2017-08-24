@@ -8,8 +8,6 @@ main-image: "/uploads/constitution-burning1.jpeg"
 layout: post
 ---
 
-Source:  Business Insider  July 27, 2017
-
 There's widespread belief that Donald Trump is lagging past presidents in submitting nominations for key posts in his administration.
 
 For the most part, that is true — except in one area that could help Trump leave behind his biggest legacy.
@@ -109,3 +107,5 @@ Tobias said he also saw this process as an area where the Trump administration c
 "I think in a lot of other areas there have been some real question marks, but it's an area where there's a huge opportunity given the number of vacancies, and they seem to be capitalizing on that," he said. "I guess what'll be interesting to see is that once they get all of the low-hanging fruit how successful will they be in the tougher situations.
 
 "Those chickens are going to come home to roost because there are just so many vacancies," he added. "You need all the cooperation and help you can get."
+
+Source:  Business Insider  July 27, 2017
