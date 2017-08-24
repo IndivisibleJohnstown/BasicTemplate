@@ -20,6 +20,6 @@ layout: post
 
 **Specific Asks**
 
-* Oppose the alt right
-* Prevent Trump Judicial nominees
-* No on shutting down government for funding on the wall
+* Oppose the alt right -
+* Prevent Trump Judicial nominees -
+* No on shutting down government for funding on the wall -
