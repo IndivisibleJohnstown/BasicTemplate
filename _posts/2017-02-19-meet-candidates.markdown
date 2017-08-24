@@ -6,9 +6,10 @@ categories:
 tags:
 - town hall
 main-image: "/uploads/Meet%2012th%20Candidates-Post%20Event-857efa.jpg"
-event-start-date: 2017-02-28 05:00:00 -05:00
-event-end-date: 2017-02-28 10:00:00 -05:00
-Location: Elmhurst Community Prep - 1800 98th Ave, Oakland, California 94603
+event-start-date: 2017-08-08 18:00:00 -04:00
+event-end-date: 2017-08-08 19:00:00 -04:00
+Location: 345 Main St., Johnstown, PA
+RSVP-link: https://www.facebook.com/events/234828800362467/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A353172031748570%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A353172031748570%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D
 ---
 
 One of the things we can do right here in our backyard is to flip the 12th district.  These candidates have thrown their hats into the ring for the primary this coming spring.  The winner will take on Congressman Keith Rothfus and his 97% Trump voting record.  Come meet them in person on Tuesday, August 8th.
