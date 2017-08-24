@@ -1,8 +1,9 @@
 ---
 title: Stop Trump's march toward the destruction of America
-date: 2017-02-01 21:20:00 -05:00
+date: 2017-08-24 09:20:00 -04:00
 categories:
 - action
+is featured: true
 main-image: "/uploads/Marathon%20Not%20Sprint.png"
 call-script-text: |-
   Hi, my name is _________ and I'm one of Senator [Toomy/Casey]'s constituents. My zip code is ______.
@@ -20,5 +21,5 @@ layout: post
 **Specific Asks**
 
 * Oppose the alt right
-* Prevent a Trump Judicial nominees
+* Prevent Trump Judicial nominees
 * No on shutting down government for funding on the wall
