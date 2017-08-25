@@ -11,8 +11,6 @@ The FCC, under Donald J Trump, is about to lift a cap on the amount of local TV 
 
     This is a coming storm.  One that could not only change the landscape of the media, a shift that is taking place as we speak, but could pose a real risk to the Republic.
 
-![1st Amendment-4582b6.jpg](/uploads/1st%20Amendment-4582b6.jpg)
-
     One of the more brilliant ideas inserted into our Constitution by our founders is the veneration of what has become known as the fourth estate, the free and independent press.  They chose to make it the very 1st amendment to the Constitution of the United States demonstrating that they felt strongly that the role of the free press would keep the government in check and guard against the rise of royalty or any other form of autocratic governing.
 
 Throughout our history, there has always been a press of differing opinion.  The left/right slant we see in the news today is nothing new.  Early publications, some printed by hand on leaflets, were distributed by different enterprises with varying opinions.  18th century newspapers with names like “Porcupine's Gazette”, Pittsburgh's “The Tree of Liberty” and Benjamin Franklin's “The Pennsylvania Gazette”.  There were countless news publications, all with their own opinions.  Together, they provided the public with a variety of discourse, much of which gave voice to the common man.
