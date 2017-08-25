@@ -3,6 +3,7 @@ title: |-
   Coming Soon to a TV Near You
   The End of the Independent Press
 date: 2017-08-25 18:30:00 -04:00
+is featured: true
 ---
 
 The FCC, under Donald J Trump, is about to lift a cap on the amount of local TV stations that can be owned by any one company.  That will clear the way for WJAC-TV parent company Sinclair Broadcast Group, already the country's largest media company, to purchase rival Tribune Media.  This will give Sinclair more than 70% market share of US TV households including penetration in markets like New York and LA.
