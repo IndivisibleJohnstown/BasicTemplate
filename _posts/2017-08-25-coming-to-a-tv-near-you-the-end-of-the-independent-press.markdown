@@ -1,5 +1,5 @@
 ---
-title: "Coming to a TV Near You - \nThe End of the Independent Press"
+title: "Coming to a TV Near You - \n The End of the Independent Press"
 date: 2017-08-25 18:48:00 -04:00
 is featured: true
 main-image: "/uploads/Propaganda%20TV-c12a2f.jpg"
