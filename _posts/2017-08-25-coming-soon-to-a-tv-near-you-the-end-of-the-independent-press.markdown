@@ -11,7 +11,7 @@ The FCC, under Donald J Trump, is about to lift a cap on the amount of local TV 
 
     This is a coming storm.  One that could not only change the landscape of the media, a shift that is taking place as we speak, but could pose a real risk to the Republic.
 
-![1st Amendment.jpg](/uploads/1st%20Amendment.jpg)
+![1st Amendment-380115.jpg](/uploads/1st%20Amendment-380115.jpg)
 
     One of the more brilliant ideas inserted into our Constitution by our founders is the veneration of what has become known as the fourth estate, the free and independent press.  They chose to make it the very 1st amendment to the Constitution of the United States demonstrating that they felt strongly that the role of the free press would keep the government in check and guard against the rise of royalty or any other form of autocratic governing.
 
