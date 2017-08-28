@@ -16,6 +16,8 @@ call-script-text: My name is __________________ and I live in the 12th district 
   and challenging President Trump?
 ---
 
+![Oath of Office.jpg](/uploads/Oath%20of%20Office.jpg)
+
 One commitment every Congressman & Senator makes is  "I, Keith Rothfus, do solemnly swear  that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion, and that I will well and faithfully discharge the duties of the office on which I am about to enter. So help me God.”
 
 Rep. Rothfus does not seem to recognize Donald J Trump as an enemy of the Constitution.  Beyond Twitter, Trump's words and actions have been consistently unconstitutional.  From making money from the Presidency to pardoning a law enforcement officer found guilty of 1st amendment violations to giving comfort to hate groups who advocate Constitutional violations, Trump is embarking on a mission to deconstruct the Constitution.  And Keith Rothfus doesn't see the urgency, let alone speak out forcefully in defense of the country, it's security and it's Constitution.  Rothfus' myopic pursuit of the Republican agenda has put party above country.
