@@ -16,6 +16,9 @@ main-image: "/uploads/Propaganda%20TV.jpg"
 
     One of the more brilliant ideas inserted into our Constitution by our founders is the veneration of what has become known as the fourth estate, the free and independent press.  They chose to make it the very first amendment to the Constitution of the United States demonstrating that they felt strongly that the role of the free press would keep the government in check and guard against the rise of royalty or any other form of autocratic governing.
 
+ Why, you may ask yourself, does anyone believe the lies that flow from the mouth of Donald J Trump?  How is it that there are still something like 34% of Americans who don't see through this president?  It's because there are “news” organizations that happily parrot and endorse the Trump lies and even provide “proof” that these lies are in fact truths.  These voices on TV, radio, social media and internet sites are all part of a propaganda machine.  One that is growing...with help from the Federal Communications Commission.
+
+
 Throughout our history, there has always been a press of differing opinion.  The left/right slant we see in the news today is nothing new.  Early publications, some printed by hand on leaflets, were distributed by different enterprises with varying opinions.  Eighteenth century newspapers with names like “Porcupine's Gazette”, Pittsburgh's “The Tree of Liberty” and Benjamin Franklin's “The Pennsylvania Gazette”.  There were countless news publications, all with their own opinions.  Together, they provided the public with a variety of discourse, much of which gave voice to the common man.
 
 ![Old time TV-04af16.jpg](/uploads/Old%20time%20TV-04af16.jpg)
