@@ -15,4 +15,4 @@ One of the main discussions was the amount of money the elected Democrat will ne
 
 Indivisible Johnstown will work toward convincing the DNC that we need their financial help in flipping the 12th and putting in place a Representative of the people who will act as a check and balance on Trump's unconstitutional agenda.
 
-See a short bio of each candidate here 
+See a short bio of each candidate [here](http://indivisiblejohnstown.org/event/2017/06/01/meet-candidates.html) 
