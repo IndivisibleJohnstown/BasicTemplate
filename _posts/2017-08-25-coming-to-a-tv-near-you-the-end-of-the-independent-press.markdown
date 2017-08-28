@@ -20,6 +20,9 @@ main-image: "/uploads/Propaganda%20TV.jpg"
 
 The FCC, under Trump, is about to lift a cap on the amount of local TV stations that can be owned by any one company.  That will clear the way for WJAC-TV parent company Sinclair Broadcast Group, already the country's largest media company, to purchase rival Tribune Media.  This will give Sinclair more than 70% market share of US TV households including penetration in markets like New York and LA.
 
+This is a coming storm.  One that could not only change the landscape of the media, a shift that is taking place as we speak, but could pose a real risk to the Republic.
+
+![First Amendment-ad7d1f.jpg](/uploads/First%20Amendment-ad7d1f.jpg)
 
 Throughout our history, there has always been a press of differing opinion.  The left/right slant we see in the news today is nothing new.  Early publications, some printed by hand on leaflets, were distributed by different enterprises with varying opinions.  Eighteenth century newspapers with names like “Porcupine's Gazette”, Pittsburgh's “The Tree of Liberty” and Benjamin Franklin's “The Pennsylvania Gazette”.  There were countless news publications, all with their own opinions.  Together, they provided the public with a variety of discourse, much of which gave voice to the common man.
 
