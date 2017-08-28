@@ -8,9 +8,9 @@ main-image: "/uploads/Propaganda%20TV.jpg"
 
 Why, you may ask yourself, does anyone believe the lies that flow from the mouth of Donald J Trump?  How is it that there are still something like 34 percent  of Americans who don't see through this president?  It's because there are “news” organizations that happily parrot and endorse the Trump lies and even provide “proof” that these lies are in fact truths.  These voices on TV, radio, social media and internet sites are all part of a propaganda machine.  One that is growing...with help from the Federal Communications Commission.
 
-    The FCC, under Trump, is about to lift a cap on the amount of local TV stations that can be owned by any one company.  That will clear the way for WJAC-TV parent company Sinclair Broadcast Group, already the country's largest media company, to purchase rival Tribune Media.  This will give Sinclair more than 70 percent market share of US TV households including penetration in markets like New York and LA.
+  The FCC, under Trump, is about to lift a cap on the amount of local TV stations that can be owned by any one corporation.  That will clear the way for WJAC-TV parent company Sinclair Broadcast Group, already the country's largest media company to purchase rival Tribune Media.  This will give Sinclair more than 70 percent market share of US TV households including penetration in markets like New York and LA.
 
-    This is a coming storm.  One that could not only change the landscape of the media, a shift that is taking place as we speak, but could pose a real risk to the Republic.
+This is a coming storm.  One that could not only change the landscape of the media, a shift that is taking place as we speak, but could pose a real risk to the Republic.  
 
 ![First Amendment-e8425f.jpg](/uploads/First%20Amendment-e8425f.jpg)
     
