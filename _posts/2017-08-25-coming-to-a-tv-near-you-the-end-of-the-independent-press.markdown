@@ -12,7 +12,7 @@ Why, you may ask yourself, does anyone believe the lies that flow from the mouth
 
 This is a coming storm.  One that could not only change the landscape of the media, a shift that is taking place as we speak, but could pose a real risk to the Republic.  
 
-![First Amendment-e8425f.jpg](/uploads/First%20Amendment-e8425f.jpg)
+![First Amendment-02b5e0.jpg](/uploads/First%20Amendment-02b5e0.jpg)
     
 Throughout our history, there has always been a press of differing opinion.  The left/right slant we see in the news today is nothing new.  Early publications, some printed by hand on leaflets, were distributed by different enterprises with varying opinions.  Eighteenth century newspapers with names like “Porcupine's Gazette”, Pittsburgh's “The Tree of Liberty” and Benjamin Franklin's “The Pennsylvania Gazette”.  There were countless news publications, all with their own opinions.  Together, they provided the public with a variety of discourse, much of which gave voice to the common man.
 
