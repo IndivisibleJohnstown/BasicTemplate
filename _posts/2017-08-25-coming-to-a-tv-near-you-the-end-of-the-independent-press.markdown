@@ -18,6 +18,8 @@ main-image: "/uploads/Propaganda%20TV.jpg"
 
  Why, you may ask yourself, does anyone believe the lies that flow from the mouth of Donald J Trump?  How is it that there are still something like 34% of Americans who don't see through this president?  It's because there are “news” organizations that happily parrot and endorse the Trump lies and even provide “proof” that these lies are in fact truths.  These voices on TV, radio, social media and internet sites are all part of a propaganda machine.  One that is growing...with help from the Federal Communications Commission.
 
+The FCC, under Trump, is about to lift a cap on the amount of local TV stations that can be owned by any one company.  That will clear the way for WJAC-TV parent company Sinclair Broadcast Group, already the country's largest media company, to purchase rival Tribune Media.  This will give Sinclair more than 70% market share of US TV households including penetration in markets like New York and LA.
+
 
 Throughout our history, there has always been a press of differing opinion.  The left/right slant we see in the news today is nothing new.  Early publications, some printed by hand on leaflets, were distributed by different enterprises with varying opinions.  Eighteenth century newspapers with names like “Porcupine's Gazette”, Pittsburgh's “The Tree of Liberty” and Benjamin Franklin's “The Pennsylvania Gazette”.  There were countless news publications, all with their own opinions.  Together, they provided the public with a variety of discourse, much of which gave voice to the common man.
 
