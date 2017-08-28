@@ -4,7 +4,6 @@ date: 2017-08-28 12:15:00 -04:00
 main-image: "/uploads/Trump_Constitution_Money.jpg"
 ---
 
-
 While Donald Trump was running for president in 2015 and early 2016, his company was pursuing a plan to develop a Trump Tower in Moscow, according to several people familiar with the proposal and new records reviewed by Trump Organization lawyers.
 
 As part of the discussions, a Russian-born real estate developer urged Trump to come to Moscow to tout the proposal and suggested that he could get President Vladimir Putin to say “great things” about Trump, according to several people who have been briefed on his correspondence.
@@ -28,7 +27,6 @@ Internal emails also show campaign adviser George Papadopoulos repeatedly sought
 The negotiations for the Moscow project ended before Trump’s business ties to Russia had become a major issue in the campaign. Trump denied having any business connections to Russia in July 2016, tweeting, “for the record, I have ZERO investments in Russia” and then insisting at a news conference the following day, “I have nothing to do with Russia.”
 
 Discussions about the Moscow project began in earnest in September 2015, according to people briefed on the deal. An unidentified investor planned to build the project and, under a licensing agreement, put Trump’s name on it. Cohen acted as a lead negotiator for the Trump Organization. It is unclear how involved or aware Trump was of the negotiations.
-
 
 As the talks progressed, Trump voiced numerous supportive comments about Putin, setting himself apart from his Republican rivals for the nomination.
 
@@ -56,7 +54,15 @@ In the same testimony, Sater described traveling with Trump’s children, includ
 
 “They were on their way by themselves, and he was all concerned,” Sater said. “He asked if I wouldn’t mind joining them and looking after them while they were in Moscow.”
 
+Alan Garten, a lawyer for the Trump Organization, told The Washington Post last year that Sater happened to be in Moscow at the same time as Trump’s two adult children. “There was no accompanying them to Moscow,” he said.
+
+Neither Sater nor his attorney responded to requests for comment.
+
+Trump has repeatedly tried to distance himself from Sater, who served time in jail after assaulting a man with the stem of a broken margarita glass during a 1991 bar fight and then pleaded guilty in 1998 to his role in an organized- crime-linked stock fraud. Sater’s sentencing was delayed for years while he cooperated with the federal government on a series of criminal and national security-related investigations, federal officials have said.
+
+During that time, Sater worked as an executive with Bayrock, whose offices were in Trump Tower, and brokered deals to license Trump’s name for developments in multiple U.S. and foreign cities. In 2010, Trump allowed Sater to briefly work out of Trump Organization office space and use a business card that identified him as a “senior adviser to Donald Trump.”
+
+Still, when asked about Sater in 2013 court deposition, Trump said: “If he were sitting in the room right now, I really wouldn’t know what he looked like.” He added that he had spoken with Sater “not many” times.
+
 The Washington Post
 By Carol D. Leonnig, Tom Hamburger and Rosalind S. Helderman August 27 at 10:47 PM
-
-[](https://www.washingtonpost.com/politics/trumps-business-sought-deal-on-a-trump-tower-in-moscow-while-he-ran-for-president/2017/08/27/d6e95114-8b65-11e7-91d5-ab4e4bb76a3a_story.html?utm_term=.81a70eafba37)
