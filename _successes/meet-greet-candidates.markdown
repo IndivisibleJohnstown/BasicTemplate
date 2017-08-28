@@ -14,3 +14,5 @@ After each candidate was given 5 minutes to introduce themselves, the meeting tu
 One of the main discussions was the amount of money the elected Democrat will need in order to battle Rep. Keith Rothfus who currently has more than an $800,000 war chest.  Big money is behind Rothfus and the Democratic National Committee has not targeted Pennsylvania's 12th district for funding in the 2018 general election.  That means it will be incumbent on everyday citizens to provide campaign funding.
 
 Indivisible Johnstown will work toward convincing the DNC that we need their financial help in flipping the 12th and putting in place a Representative of the people who will act as a check and balance on Trump's unconstitutional agenda.
+
+See a short bio of each candidate here 
