@@ -9,7 +9,7 @@ main-image: "/uploads/constitution-burning1.jpeg"
 layout: post
 ---
 
-There's widespread belief that Donald Trump is lagging behind past presidents in submitting nominations for key posts in his administration.
+There's widespread belief Donald Trump is lagging behind past presidents in submitting nominations for key posts in his administration.
 
 For the most part, that is true — except in one area that could help Trump leave behind his biggest legacy.
 
@@ -80,7 +80,7 @@ Goldberg questioned whether Schiff had been vetted.
 
 Goldberg, too, acknowledged that this was an area where Trump had pretty broad ability to influence the law for a generation or more.
 
-"I think the American people have to realize that the Supreme Court takes only approximately 80 cases a year," Goldberg said. "And Neil Gorsuch, somebody who will in the next generation erode away critical rights and legal protections for workers, for persons with disabilities, for minorities, for LGBTQ Americans, and [Trump's] going to do the same thing in the lower courts, where approximately 99% of the cases end."
+"I think the American people have to realize that the Supreme Court takes only approximately 80 cases a year," Goldberg said. "And Neil Gorsuch, somebody who will in the next generation erode away critical rights and legal protections for workers, for persons with disabilities, for minorities, for LGBTQ Americans, and \[Trump's\] going to do the same thing in the lower courts, where approximately 99% of the cases end."
 
 But Goldberg expressed appreciation for Grassley's appearing to stick by the blue-slip practice, which provides Democrats with some power even while they are in the minority.
 
