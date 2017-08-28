@@ -1,6 +1,6 @@
 ---
 title: Trump Violates the Emoluments Clause
-date: 2017-08-28 09:35:00 -04:00
+date: 2017-08-28 12:15:00 -04:00
 main-image: "/uploads/Trump_Constitution_Money.jpg"
 ---
 
