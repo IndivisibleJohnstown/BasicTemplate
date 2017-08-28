@@ -1,7 +1,6 @@
 ---
-title: |-
-  Trump's FCC & Sinclair Broadcast Group
-       The End of the Independent Press
+title: "Trump's FCC & Sinclair Broadcast Group - \n     The End of the Independent
+  Press"
 date: 2017-08-25 18:59:00 -04:00
 is featured: true
 main-image: "/uploads/Propaganda%20TV.jpg"
