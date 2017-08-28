@@ -38,4 +38,4 @@ Make no mistake...”deconstruction of the administrative state” is a dog whis
 Indivisible Johnstown 
 
 Find contact information for your MoC here:
-https://whoismyrepresentative.com/    
+[](https://whoismyrepresentative.com/)
