@@ -16,12 +16,12 @@ This is a coming storm.  One that could not only change the landscape of the med
     
 Throughout our history, there has always been a press of differing opinion.  The left/right slant we see in the news today is nothing new.  Early publications, some printed by hand on leaflets, were distributed by different enterprises with varying opinions.  Eighteenth century newspapers with names like “Porcupine's Gazette”, Pittsburgh's “The Tree of Liberty” and Benjamin Franklin's “The Pennsylvania Gazette”.  There were countless news publications, all with their own opinions.  Together, they provided the public with a variety of discourse, much of which gave voice to the common man.
 
-![Old time TV-04af16.jpg](/uploads/Old%20time%20TV-04af16.jpg)
-
 Print news evolved into radio and television stations from coast to coast.  Concerned over the growing power of large corporations and conglomerates, the administration of President Franklin Roosevelt wanted to make sure the country’s budding mass communications systems did not fall into the hands of a select few.   The Communications Act of 1934 created the Federal Communications Commission and tasked the independent agency with a range of responsibilities intended to serve the public good.
+
 
 Since then, rules changes at the FCC, enacted by partisan board members appointed by Republican and Democratic Presidents alike, have eroded the bulwark against exposing the public to the opinions of a few.  And the greatest erosion has occurred in the past 34 years.  In 1983, 90% of American media was owned by 50 companies.  By 2011 that same 90% was owned by a mere 6 companies (GE, News Corp, Disney, Viacom, Time Warner & CBS).
 
+![Old time TV-04af16.jpg](/uploads/Old%20time%20TV-04af16.jpg)
 
 The original mission of the FCC is now in the final throes of this assault by a President that is intent on controlling the message and sowing doubt about the validity of news organizations who question his version of the truth by labeling them “Fake News”.  Trump has many conspirators in this march toward controlled propaganda.  Breitbart principal investors Robert & Diana Mercer, Sinclair Broadcast Group's David Smith, Fox News parent company News Corp CEO Rupert Murdoch, Bloomberg Media CEO Michael Bloomberg.  These billionaires project their world view through their media holdings.
 
