@@ -7,3 +7,4 @@ phone-numbers:
 website: www.indivisiblejohnstown.org
 ---
 
+[](http://www.facebook.com/indivisiblejohnstown)
