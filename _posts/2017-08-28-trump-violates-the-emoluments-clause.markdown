@@ -4,7 +4,7 @@ date: 2017-08-28 09:35:00 -04:00
 ---
 
 
-While Donald Trump was running for president in late 2015 and early 2016, his company was pursuing a plan to develop a massive Trump Tower in Moscow, according to several people familiar with the proposal and new records reviewed by Trump Organization lawyers.
+While Donald Trump was running for president in 2015 and early 2016, his company was pursuing a plan to develop a Trump Tower in Moscow, according to several people familiar with the proposal and new records reviewed by Trump Organization lawyers.
 
 As part of the discussions, a Russian-born real estate developer urged Trump to come to Moscow to tout the proposal and suggested that he could get President Vladimir Putin to say “great things” about Trump, according to several people who have been briefed on his correspondence.
 
