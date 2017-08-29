@@ -57,13 +57,13 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: Resisting the dangerous Donald J Trump agenda
+subtitle: Resisting the Dangerous Trump Agenda
 email: indivisiblejohnstown@gmail.com
 baseurl: 
 Key: 
 "@IndivisiblJtown": Twitter
 Indivisible Johnstown: Facebook
-background-image: "/uploads/Website%20Banner-2.jpg"
+background-image: "/uploads/indivisiblejohnstown_SiteHeader.jpg"
 member-count: 56
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
