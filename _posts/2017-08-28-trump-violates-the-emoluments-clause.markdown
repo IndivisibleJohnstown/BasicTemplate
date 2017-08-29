@@ -66,6 +66,8 @@ Neither Sater nor his attorney responded to requests for comment.
 
 Trump has repeatedly tried to distance himself from Sater, who served time in jail after assaulting a man with the stem of a broken margarita glass during a 1991 bar fight and then pleaded guilty in 1998 to his role in an organized- crime-linked stock fraud. Sater’s sentencing was delayed for years while he cooperated with the federal government on a series of criminal and national security-related investigations, federal officials have said.
 
+![Felix Sater and Trump.jpg](/uploads/Felix%20Sater%20and%20Trump.jpg)
+
 During that time, Sater worked as an executive with Bayrock, whose offices were in Trump Tower, and brokered deals to license Trump’s name for developments in multiple U.S. and foreign cities. In 2010, Trump allowed Sater to briefly work out of Trump Organization office space and use a business card that identified him as a “senior adviser to Donald Trump.”
 
 Still, when asked about Sater in 2013 court deposition, Trump said: “If he were sitting in the room right now, I really wouldn’t know what he looked like.” He added that he had spoken with Sater “not many” times.
