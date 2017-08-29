@@ -15,6 +15,8 @@ After 216 days in office it is abundantly obvious that Donald J Trump is unfit a
 
 Join us in our efforts to oust this authoritarian kleptocrat from the highest office in the land.
 
+![Wide Logo.jpg](/uploads/Wide%20Logo.jpg)
+
 Follow us on Facebook at Indivisible Johnstown.
 Or on Twitter at IndivisiblJtown
 
