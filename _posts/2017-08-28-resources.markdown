@@ -12,9 +12,9 @@ Senator Pat Toomey's voting record - [Vote Smart](https://votesmart.org/candidat
 
 Senator Pat Toomey's campaign donors - [Open Secrets](http://www.opensecrets.org/members-of-congress/summary?cid=N00001489&cycle=2018)
 
-Senator Bob Casey's voting record - [](https://votesmart.org/candidate/key-votes/2541/bob-casey-jr#.WaXVRsiGNYg)
+Senator Bob Casey's voting record - [Vote Smart](https://votesmart.org/candidate/key-votes/2541/bob-casey-jr#.WaXWKsiGNYg)
 
-Senator Bob Casey's campaign donors - [](https://www.opensecrets.org/members-of-congress/summary?cid=N00027503&cycle=2014)
+Senator Bob Casey's campaign donors - [Open Secrets](https://www.opensecrets.org/members-of-congress/summary?cid=N00027503&cycle=2014)
 
 Indivisible Guide - [A Practical Guide to Resisting the Trump Agenda](https://www.indivisibleguide.com/)
 
