@@ -11,9 +11,9 @@ call-script-text: My name is __________________ and I live in the 12th district 
   in the pocket of the President.  His labeling of the press as "enemies of the people"
   is in violation of the 1st amendment and his questioning of the validity of the
   judiciary violates the 3rd amendment.  He has endangered this country both domestically
-  and internationally.  At the very least Congress needs to censure this president.  When
-  will Congressman Rothfus put country before party by standing up for the Constitution
-  and challenging President Trump?
+  and internationally.  At the very least Congress needs to censure this president.  Will
+  Congressman Rothfus vote yes on [HR 496 - Condemning and censuring President Donald
+  Trump](https://www.congress.gov/bill/115th-congress/house-resolution/496)
 ---
 
 ![Oath of Office.jpg](/uploads/Oath%20of%20Office.jpg)
