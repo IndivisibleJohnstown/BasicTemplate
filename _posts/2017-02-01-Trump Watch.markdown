@@ -79,6 +79,8 @@ Bush came under fire for his past blog posts, written under a pseudonym, that co
 
 Another nominee, Damien Schiff, a California attorney, came under fire for writing on a blog that Supreme Court Justice Anthony Kennedy was a "judicial prostitute" and that schools were "teaching 'gayness,'" in response to efforts aimed at preventing bullying of LGBTQ students.
 
+![Judges Bush_Schiff.jpg](/uploads/Judges%20Bush_Schiff.jpg)
+
 "It seems that they're putting speed in front of carefulness, thoughtfulness, and ensuring that the individuals who serve lifetime appointments on our federal bench protecting the constitutional and legal rights of so many people, that I question whether they're doing a thorough job on vetting these individuals," Dan Goldberg, the legal director of the progressive law organization Alliance for Justice, told Business Insider.
 Goldberg questioned whether Schiff had been vetted.
 
