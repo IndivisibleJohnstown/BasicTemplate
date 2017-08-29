@@ -98,14 +98,15 @@ Carl Tobias, a University of Richmond law professor and expert on judicial selec
 
 "He ran on that," Tobias said. "So that's not, I don't think, necessarily an issue unless someone is outside the mainstream."
 
+![Judge Trump.jpg](/uploads/Judge%20Trump.jpg)
+
 He said the White House was "doing a pretty good job of moving people," though he didn't think there had been enough consultation between the White House and home-state senators, particularly in states with Democrats, on both the judicial and US attorney fronts.
 
 It has "created some problems," he said, adding that the consultation "pays off" for the administration.
 
 "The home-state senators really have an important role to play," he said. "And it's one of the last pieces of patronage they have. So they're really defensive about that. I mean, they want to have a say-so of who the US attorney is in their state and who is on the bench."
 
-Tobias noted how many of the initial nominees were in states Trump won — with many openings in places like Alabama and Tennessee getting filled early on, while vacancies remained in states like California and New York.
-The professor said the Trump administration's filling the vacancies by targeting what he termed the "low-hanging fruit" first may be "a very efficient way" to go about it.
+Tobias noted how many of the initial nominees were in states Trump won — with many openings in places like Alabama and Tennessee getting filled early on, while vacancies remained in states like California and New York.  The professor said the Trump administration's filling the vacancies by targeting what he termed the "low-hanging fruit" first may be "a very efficient way" to go about it.
 
 But there's one problem.
 
