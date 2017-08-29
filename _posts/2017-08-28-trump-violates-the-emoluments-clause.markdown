@@ -50,6 +50,8 @@ Trump’s interests in building in Moscow, however, are long-standing. He had at
 
 Sater was involved in at least one of those previous efforts. In 2005, the Trump Organization gave his development company, the Bayrock Group, an exclusive one-year deal to attempt to build a Moscow Trump Tower. Sater located a site for the project — an abandoned pencil factory — and worked closely with Trump on the deal, which did not come to fruition.
 
+![Bayrock Group.jpg](/uploads/Bayrock%20Group.jpg)
+
 In an unrelated court case in 2008, Sater said in a deposition that he would personally provide Trump “verbal updates” on the deal.
 
 “When I’d come back, pop my head into Mr. Trump’s office and tell him, you know, ‘Moving forward on the Moscow deal.’ And he would say, ‘All right,’ ” Sater said.
