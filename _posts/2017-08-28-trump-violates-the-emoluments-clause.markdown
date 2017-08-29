@@ -26,6 +26,8 @@ Donald Trump Jr. organized a June 2016 meeting with campaign aide Jared Kushner,
 
 Internal emails also show campaign adviser George Papadopoulos repeatedly sought to organize meetings with campaign officials, including Trump, and Putin or other Russians. His efforts were rebuffed.
 
+![Russian Collusion.jpg](/uploads/Russian%20Collusion.jpg)
+
 The negotiations for the Moscow project ended before Trump’s business ties to Russia had become a major issue in the campaign. Trump denied having any business connections to Russia in July 2016, tweeting, “for the record, I have ZERO investments in Russia” and then insisting at a news conference the following day, “I have nothing to do with Russia.”
 
 Discussions about the Moscow project began in earnest in September 2015, according to people briefed on the deal. An unidentified investor planned to build the project and, under a licensing agreement, put Trump’s name on it. Cohen acted as a lead negotiator for the Trump Organization. It is unclear how involved or aware Trump was of the negotiations.
