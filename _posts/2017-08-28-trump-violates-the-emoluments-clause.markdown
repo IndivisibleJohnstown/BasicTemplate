@@ -72,5 +72,5 @@ During that time, Sater worked as an executive with Bayrock, whose offices were 
 
 Still, when asked about Sater in 2013 court deposition, Trump said: “If he were sitting in the room right now, I really wouldn’t know what he looked like.” He added that he had spoken with Sater “not many” times.
 
-The Washington Post
+Source:  The Washington Post
 By Carol D. Leonnig, Tom Hamburger and Rosalind S. Helderman August 27 at 10:47 PM
