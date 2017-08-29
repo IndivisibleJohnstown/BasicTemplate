@@ -21,6 +21,8 @@ On the federal bench, virtually all the vacancies Trump has been rushing to fill
 
 "I do think this deserves more attention given the consequence, the significance of what will eventually be a wholesale change among the federal judiciary," he continued.
 
+![Supremes with Trump.jpg](/uploads/Supremes%20with%20Trump.jpg)
+
 While only three of Trump's nominees for the federal bench, aside from Supreme Court Justice Neil Gorsuch, have been confirmed by the Judiciary Committee to date, the sheer number of nominees he has sent to the committee — both for federal judgeships and US attorney slots — is staggering.
 
 Through July 14, roughly a week shy of Trump's six-month anniversary in office, he had nominated 18 people for district judgeship vacancies, 14 for circuit courts and the Court of Federal Claims, and 23 for US attorney slots. During that same timeframe in President Barack Obama's first term, Obama had nominated just four district judges, five appeals court judges, and 13 US attorneys. In total, Trump nominated 55 people, and Obama just 22.
