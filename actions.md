@@ -9,4 +9,4 @@ Not every effective action takes place in the street. Take action at home!  The 
 
 Senator Pat Toomy (R) - (202) 224-4254 -
 Senator Bob Casey (D) - (202) 224-6324 -
-Rep. Keith Rothfus (R-12th District - (202) 225-2065
+Rep. Keith Rothfus (R-12th District) - (202) 225-2065
