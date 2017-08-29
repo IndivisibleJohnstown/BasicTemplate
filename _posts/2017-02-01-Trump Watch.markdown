@@ -61,7 +61,7 @@ Malcolm said the credit for such a quick start in handling the judicial vacancie
 
 Ian Prior, a Justice Department spokesman, told Business Insider the administration was working closely with Attorney General Jeff Sessions and Deputy Attorney General Rod Rosenstein to bring forth nominees. Even as both Sessions and Rosenstein find themselves in Trump's doghouse for Russia-related matters, the pair has exerted influence in plugging these many voids.
 
-![Federalist_Heratige.jpg](/uploads/Federalist_Heratige.jpg)
+
 
 But when it comes to the judicial nominees, conservative organizations such as Heritage and The Federalist Society have seen their influence increase. Both groups suggest several candidates for such openings — Trump used them to form his well-publicized list of judges to consider for the Supreme Court — and both have seen their suggestions become nominees (though Malcolm made clear that McGahn and his team were the ones who deserved credit, not him).
 
