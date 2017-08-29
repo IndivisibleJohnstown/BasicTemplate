@@ -12,6 +12,8 @@ The developer, Felix Sater, predicted in a November 2015 email that he and Trump
 
 Sater wrote to Trump Organization Executive Vice President Michael Cohen “something to the effect of, ‘Can you believe two guys from Brooklyn are going to elect a president?’ ” said one person briefed on the email exchange. Sater emigrated from what was then the Soviet Union when he was 6 and grew up in Brooklyn.
 
+![Moscow Rooftops.jpg](/uploads/Moscow%20Rooftops.jpg)
+
 Trump never went to Moscow as Sater proposed. And although investors and Trump’s company signed a letter of intent, they lacked the land and permits to proceed and the project was abandoned at the end of January 2016, just before the presidential primaries began, several people familiar with the proposal said.
 
 Nevertheless, the details of the deal, which have not previously been disclosed, provide evidence that Trump’s business was actively pursuing significant commercial interests in Russia at the same time he was campaigning to be president — and in a position to determine U.S.-Russia relations. The new details from the emails, which are scheduled to be turned over to congressional investigators soon, also point to the likelihood of additional contacts between Russia-connected individuals and Trump associates during his presidential bid.
