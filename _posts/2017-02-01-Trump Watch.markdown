@@ -46,6 +46,8 @@ Coons said he and his fellow Democratic senator from Delaware, Tom Carper, were 
 
 But he said that so far he felt that Grassley and the ranking Democrat on the Judiciary Committee, Sen. Dianne Feinstein of California, had done an admirable job in dealing with the massive number of nominations coupled with intense work involving the investigation into Russia's election interference.
 
+![Feinstein_Grassley.jpg](/uploads/Feinstein_Grassley.jpg)
+
 The furious pace of nominations come as Trump faces an impressive number of vacancies to fill. As of Thursday, the federal bench had 136 vacancies. Trump fired half of the 93 US attorneys in March, creating a nearly immediate need to begin nominating, though seeking to quickly replace US attorneys is not uncommon at the start of a new administration. In August 2009, Obama faced 85 vacancies on the federal bench.
 
 Coons attributed the discrepancy in vacancies to "unprecedented obstruction by the Republican majority in the Senate in the latter years of the Obama administration" that led to many of these vacancies remaining unfilled.
