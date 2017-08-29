@@ -13,4 +13,6 @@ RSVP-link: https://www.facebook.com/events/1542943292406857/?acontext=%7B%22sour
 layout: post
 ---
 
-Infamous for not holding town halls and meeting with constituents for 10 minutes 1 person at a time Rep. Keith Rothfus has actively skirted his duties to the voters. Indivisible Johnstown has extended an invitation to Rep. Keith Rothfus to participate in a town hall on June 1, while he's in town for Showcase for Commerce.  With or without the Congressman from the 12th district, citizens are invited to come and talk about what concerns them most.
+Infamous for not holding town halls and meeting with constituents for 10 minutes and only 1 person at a time Rep. Keith Rothfus has actively skirted his duties to the voters. Indivisible Johnstown extended an invitation to Rep. Keith Rothfus to participate in a town hall on June 1, while he was already in town for Showcase for Commerce.  After much negotiation, in which Indivisible Johnstown promised a controlled, calm Town Hall, Rep. Rothfus, through his staff, ultimately decided against attending.  In his honor,the event went on without the Congressman from the 12th district.  Citizens came and talked about what concerns them most while building relationships with fellow constituents.  
+
+While Rep. Rothfus builds his war chest (approaching 1 million dollars) for the 2018 campaign, his constituents continue to ask "Where's Rothfus?"
