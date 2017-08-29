@@ -13,6 +13,8 @@ Ninety minutes later, as Sensenbrenner fled the public library parking lot in a 
 
 Nationwide, this tide of progressive resistance has sent GOP members of Congress into hiding from their own constituents, and steeled Senate Democrats into a unified opposition. "When you see Charles Schumer out there calling for 'resistance,' you realize something's happening," says Theda Skocpol, the famed Harvard political scientist who studies American civic engagement. "That's not his natural state."
 
+![IndivisibleGuideLogo.jpg](/uploads/IndivisibleGuideLogo.jpg)
+
 The Indivisible movement – which now counts more than 6,000 chapters nationwide – is the centerpiece of a robust new grassroots machinery that has arisen to confront the crisis of the Trump presidency. Rivaling anything accomplished by the Tea Party, the passionate activism of hundreds of thousands of progressives has already achieved the impossible in Washington, D.C. – overwhelming Republican control of Congress and the presidency to stymie the repeal of Obamacare.
 
 Excerpts from original article "How a New Generation of Progressive Activists Is Leading the Trump Resistance - Rolling Stone Magazine 08/24/2017
