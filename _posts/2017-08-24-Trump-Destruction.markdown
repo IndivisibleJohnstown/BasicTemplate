@@ -6,7 +6,7 @@ categories:
 is featured: false
 main-image: "/uploads/Marathon.jpg"
 call-script-text: |-
-  Hi, my name is _________ and I'm one of Senator [Toomy/Casey]'s constituents. My zip code is ______.
+  Hi, my name is _________ and I'm one of Senator [Toomy/Casey]'s/Congressman Rothfus' constituents. My zip code is ______.
 
   1.  I'm calling to ask the Senator to repudiate the President's recent statements equivocating Nazis, KKK, white supremacists and white nationalists with those standing up for freedom and inclusiveness. At the very least, the Senate/House should censure the President.
 
