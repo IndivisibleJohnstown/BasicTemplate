@@ -3,7 +3,7 @@ title: "Trump's FCC & Sinclair Broadcast Group - \n     The End of the Independe
   Press"
 date: 2017-08-28 12:20:00 -04:00
 is featured: true
-main-image: "/uploads/Propaganda%20TV.jpg"
+main-image: "/uploads/PropagandaTV.jpg"
 ---
 
 Why, you may ask yourself, does anyone believe the lies that flow from the mouth of Donald J Trump?  How is it that there are still something like 34 percent  of Americans who don't see through this president?  It's because there are “news” organizations that happily parrot and endorse the Trump lies and even provide “proof” that these lies are in fact truths.  These voices on TV, radio, social media and internet sites are all part of a propaganda machine.  One that is growing...with help from the Federal Communications Commission.
