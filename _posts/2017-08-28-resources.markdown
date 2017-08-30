@@ -1,7 +1,7 @@
 ---
 title: 'Resources:  Knowledge is Power.'
 date: 2017-08-28 12:55:00 -04:00
-main-image: "/uploads/Knowledge_Action_Power.jpg"
+main-image: "/uploads/Knowledge_Action_Power-47d791.jpg"
 ---
 
 Congressman Keith Rothfus' voting record - [Vote Smart](https://votesmart.org/candidate/key-votes/119466/keith-rothfus#.WaRLViiGNPa)
