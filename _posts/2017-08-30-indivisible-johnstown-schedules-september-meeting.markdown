@@ -16,7 +16,6 @@ main-image: "/uploads/Sept%20Mtg%202017%20Website.jpg"
 event-start-date: 2017-09-14 18:00:00 -04:00
 event-end-date: 2017-09-14 19:30:00 -04:00
 Location: 345 Main St., Loft 1, downtown Johnstown
-RSVP-link: indivisiblejohnstown@gmail.com
 ---
 
 Join us for our September 2017 meeting on Thursday, Sept. 14 from 6 - 7:30pm.  We'll discuss applying pressure on Rep. Keith Rothfus and Senator Pat Toomey to defend the Constitution and the Republic from Donald Trump.
