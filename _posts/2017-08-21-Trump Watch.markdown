@@ -4,7 +4,7 @@ date: 2017-08-21 18:50:00 -04:00
 tags:
 - Donald J Trump
 - Johnstown PA
-is featured: true
+is featured: false
 main-image: "/uploads/constitution-burning1.jpeg"
 layout: post
 ---
