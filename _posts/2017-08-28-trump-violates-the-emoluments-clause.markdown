@@ -1,7 +1,7 @@
 ---
 title: Trump Violates the Emoluments Clause
 date: 2017-08-28 12:15:00 -04:00
-main-image: "/uploads/Trump_Constitution_Money.jpg"
+main-image: "/uploads/Greedy%20Trump.jpg"
 ---
 
 While Donald Trump was running for president in 2015 and early 2016, his company was pursuing a plan to develop a Trump Tower in Moscow, according to several people familiar with the proposal and new records reviewed by Trump Organization lawyers.
