@@ -4,7 +4,7 @@ date: 2017-08-24 09:20:00 -04:00
 categories:
 - action
 is featured: false
-main-image: "/uploads/Marathon%20Not%20Sprint.png"
+main-image: "/uploads/Marathon.jpg"
 call-script-text: |-
   Hi, my name is _________ and I'm one of Senator [Toomy/Casey]'s constituents. My zip code is ______.
 
