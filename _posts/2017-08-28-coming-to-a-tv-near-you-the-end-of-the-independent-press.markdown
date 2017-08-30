@@ -29,7 +29,7 @@ Oversight of the FCC in the Senate and the House is the job of the Commerce Comm
 
 But the agency's consideration of lifting ownership rules is anything but intended to meet the needs of the consumers.  Instead it is a veiled effort, under the banner of “competitive markets”, to allow the few to feed their opinions to the many. 
 
-
+![Amy Goodman Quote.jpg](/uploads/Amy%20Goodman%20Quote.jpg)
 
 What makes Sinclair even more insidious than cable and internet delivered news is that it is the largest licensee of the public owned airwaves, free over the air TV stations that can be picked up with an antenna.  As of July 2017, 13.3% of Americans get their TV from the local airwaves. These are older, poorer and rural citizens.  In addition, many more subscribe to basic cable which still gives them the big networks on local stations.  No Fox News, no MSNBC or CNN.  Just the local news, which surveys show is trusted more by viewers than those national guys.  This allows Sinclair to capture their audience and to prey on local loyalty and trust.
 
