@@ -2,7 +2,7 @@
 title: Rep. Keith Rothfus Enables Donald Trump's Deconstruction of the Constitution
 date: 2017-08-28 12:12:00 -04:00
 is featured: true
-main-image: "/uploads/Rothfus%20Crap.jpg"
+main-image: "/uploads/Enable.jpg"
 call-script-text: My name is __________________ and I live in the 12th district in
   zip code ______________.  I am concerned that Donald Trump is attempting to destroy
   our Democratic Republic and our Constitution.  He is in violation of the Emoluments
