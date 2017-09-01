@@ -5,7 +5,7 @@ tags:
 - Donald J Trump
 - Johnstown PA
 is featured: false
-main-image: "/uploads/constitution-burning1.jpeg"
+main-image: "/uploads/Constitution%20Burning.jpg"
 layout: post
 ---
 
