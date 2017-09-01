@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - town hall
-main-image: "/uploads/Meet%2012th%20Candidates.jpg"
+main-image: "/uploads/Meet%2012th%20Candidates-1b719f.jpg"
 event-start-date: 2017-08-08 18:00:00 -04:00
 event-end-date: 2017-08-08 19:00:00 -04:00
 Location: 345 Main St., Johnstown, PA
