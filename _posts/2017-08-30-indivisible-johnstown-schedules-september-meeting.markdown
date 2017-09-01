@@ -12,7 +12,7 @@ tags:
 - Congressman Keith Rothfus
 - Constitution
 is featured: true
-main-image: "/uploads/Sept%20Mtg%202017%20Website.jpg"
+main-image: "/uploads/Sept%20Mtg%20Workparts.jpg"
 event-start-date: 2017-09-14 18:00:00 -04:00
 event-end-date: 2017-09-14 19:30:00 -04:00
 Location: 345 Main St., Loft 1, downtown Johnstown
