@@ -6,7 +6,7 @@ categories:
 tags:
 - meeting
 is featured: false
-main-image: "/uploads/Rothfus%20Town%20Hall-09ac65.jpg"
+main-image: "/uploads/Rothfus%20Town%20Hall-e7c521.jpg"
 event-start-date: 2017-06-01 18:00:00 -04:00
 Location: 345 Main St., Johnstown, PA
 RSVP-link: https://www.facebook.com/events/1542943292406857/?acontext=%7B%22source%22%3A5%2C%22page_id_source%22%3A353172031748570%2C%22action_history%22%3A[%7B%22surface%22%3A%22page%22%2C%22mechanism%22%3A%22main_list%22%2C%22extra_data%22%3A%22%7B%5C%22page_id%5C%22%3A353172031748570%2C%5C%22tour_id%5C%22%3Anull%7D%22%7D]%2C%22has_source%22%3Atrue%7D
