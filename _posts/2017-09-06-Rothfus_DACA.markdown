@@ -7,8 +7,6 @@ call-script-text: |-
   Hello,
 
   My name is ____, and I am one of your constituents from zip code ______. I am calling to express my discontent with the White House’s decision to end DACA and ask Senator __________ to support Senate Bill S1615 and Representative ______ to support House Bill HR3440, legislative action that will protect immigrants affected by the termination of DACA. Eight hundred thousand lives and billions of dollars lost to the economy are affected because of the president’s decision to end DACA. Now it is time for Congress to pass a law that would provide a pathway to citizenship for this group of immigrants. Does Senator/Representative _____ currently support these bills?
-event-start-date: 2017-09-06 00:00:00 -04:00
-event-end-date: 2017-09-06 12:00:00 -04:00
 ---
 
 Congressman Keith Rothfus politicizes the lives of Dreamers, those who were brought to this country by their parents.  Young people who have a 90% rate of attending college and/or are gainfully employed.  DACA turned these immigrants into productive, tax paying members of our communities.  The economic effects of deporting this workforce is estimated to cost the US economy between 433 and 600 BILLION dollars in the next 10 years.  These are not gang members...they would never give their information to the government.  These are kids who are contributing to our country.
