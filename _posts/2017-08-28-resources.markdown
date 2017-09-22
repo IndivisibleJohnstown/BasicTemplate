@@ -1,6 +1,7 @@
 ---
 title: 'Resources:  Knowledge is Power.'
 date: 2017-08-28 12:55:00 -04:00
+is featured: true
 main-image: "/uploads/Knowledge_Action_Power-47d791.jpg"
 ---
 
