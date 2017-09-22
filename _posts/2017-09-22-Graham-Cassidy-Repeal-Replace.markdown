@@ -45,13 +45,13 @@ Mom stayed in Assisted Living for another year but then her Parkinson’s began 
 ![Nest Egg-ca6c1e.jpg](/uploads/Nest%20Egg-ca6c1e.jpg)
 
 Remember their nest egg?  That egg got shattered.  Mom started out getting the therapy she needed, until the money ran out.  This is to say, she had reached her insurance cap.  After that, there was no more therapy to improve her ability to swallow or to exercise her body or to stimulate her mind.
-After decades of paying for insurance, the system began to fail her.  To the point that the care she received consisted of administering medications, getting her out of bed, helping her dress and making sure she ate her meals.  And who paid for that?  Medicare and Medicaid. You see, Mom had lost her wealth to healthcare and was now eligible for Medicaid.
+After decades of paying for insurance, the system began to fail her.  To the point that the care she received consisted of administering medications, getting her out of bed, helping her dress and making sure she ate her meals.  And who paid for that?  Medicare and Medicaid. You see, Mom had lost her wealth to healthcare and was now eligible for Medicaid.  Without Medicaid, I don't know what we kids would have done.
 
 Mom passed away in 2010, the year the Affordable Care Act (“Obamacare”) went into effect.  The only thing Mom had left was her life insurance which allowed us to bury her.  Full disclosure, we were more fortunate than most in that we inherited several thousand dollars.
 
 ![Mom.jpg](/uploads/Mom.jpg)
 
-Mom had a relatively comfortable home in which to spend the last years of her life.  But it came at a price.  One that, increasingly, the average American cannot afford.  It is not only unacceptable to financially bankrupt an elderly person approaching the end of life, it is morally bankrupt to expose families to health/wealth insecurity.
+Mom had a relatively comfortable home in which to spend the last years of her life.  But it came at a price.  One that, increasingly, the average American cannot afford.  It is not only unacceptable to financially bankrupt an elderly person approaching the end of life, it is **morally** bankrupt to expose families to health/wealth insecurity.
 
 Graham-Cassidy is more of the same earlier attempts at repeal and replace the ACA.   It will increase premiums, out of pocket costs, does not contain any guarantees for pre-existing conditions, is ageist with its increased cost burden on the over 60 crowd, decreases funding for opioid/heroin  addiction and is being opposed by the health care industry including Blue Cross. It will not only roll back the Medicaid expansion but will go beyond with more funding decreases through 2026.  For political reasons, the GOP is rushing through another bill that is one sixth of our economy without a CBO score.  Senator Chuck Grassley (R-IA) has admitted Graham-Cassidy is very flawed but he shook his fist at Republicans and reminded them that they ran on repeal and replace.  Mr. Grassley and his colleagues are ignoring the fact that the situation on the ground has changed.  Americans want the peace of mind of affordable, effective healthcare.
 
@@ -62,6 +62,9 @@ Graham-Cassidy is more of the same earlier attempts at repeal and replace the AC
 Along with our own Senator Pat Toomey (R-PA) here are the Senators we have identified who may be persuaded to vote against this bad legislation.  Above is a script outline for you to use, if you so desire.  Please call as often as you can.
 
 Pat Toomey (PA) – 202.224.4254
+
 John McCain (AZ) – 202. 224-2235
+
 Susan Collins (ME) – 202.224-2523
+
 Lisa Murkowski (AK) – 202.224-6665
