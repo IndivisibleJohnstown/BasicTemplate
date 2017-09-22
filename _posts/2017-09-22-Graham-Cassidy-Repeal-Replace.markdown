@@ -42,7 +42,7 @@ In 2007, at the age of 84, Dad passed away.
 
 Mom stayed in Assisted Living for another year but then her Parkinson’s began to affect her ability to swallow.  We placed her in a Skilled Nursing Center, today’s politically correct term for a nursing home, which I shall refer to as “the home” henceforth.
 
-
+![Nest Egg-ca6c1e.jpg](/uploads/Nest%20Egg-ca6c1e.jpg)
 
 Remember their nest egg?  That egg got shattered.  Mom started out getting the therapy she needed, until the money ran out.  This is to say, she had reached her insurance cap.  After that, there was no more therapy to improve her ability to swallow or to exercise her body or to stimulate her mind.
 After decades of paying for insurance, the system began to fail her.  To the point that the care she received consisted of administering medications, getting her out of bed, helping her dress and making sure she ate her meals.  And who paid for that?  Medicare and Medicaid. You see, Mom had lost her wealth to healthcare and was now eligible for Medicaid.
