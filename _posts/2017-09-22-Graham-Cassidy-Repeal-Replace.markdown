@@ -24,7 +24,7 @@ call-script-text: |+
 
 I was blessed from day one.  I was given the best parents any child could ask for.  I was the last of 4 children born to my Dad, a high school teacher and Mom, a stay at home mother and, later, a secretary for a school district.  They worked hard, taught us to be responsible and caring and prepared us for the challenges of life.
 
-Beginning in 1990, when Mom and Dad were in their mid-60’s, they began to suffer some significant, but common health problems. We noticed a behavioral change in my mother that, after years of different doctors and facilities, was finally diagnosed as Bipolar disease.  In my day, we used to call it Manic Depression, a term I contend better describes the symptoms.  Concurrently my father began to be more and more forgetful and this man, a holder of a master’s degree, often searched for the right words.  The diagnosis was, as you might have guessed, Dementia.
+Beginning in 1990, when Mom and Dad were in their mid-60’s, they began to suffer some significant but common health problems. We noticed a behavioral change in my mother that, after years of different doctors and facilities, was finally diagnosed as Bipolar disease.  In my day, we used to call it Manic Depression, a term I contend better describes the symptoms.  Concurrently my father began to be more and more forgetful and this man, a holder of a master’s degree, often searched for the right words.  The diagnosis was, as you might have guessed, Dementia.
 
 ![Dementia.jpg](/uploads/Dementia.jpg)
 
