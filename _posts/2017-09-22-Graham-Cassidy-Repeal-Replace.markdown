@@ -38,7 +38,7 @@ Their Assisted Living home was comfy cozy with lovely outdoor spaces and an anti
 
 In 2007, at the age of 84, Dad passed away.  
 
-
+![Dad.jpg](/uploads/Dad.jpg)
 
 Mom stayed in Assisted Living for another year but then her Parkinson’s began to affect her ability to swallow.  We placed her in a Skilled Nursing Center, today’s politically correct term for a nursing home, which I shall refer to as “the home” henceforth.
 
