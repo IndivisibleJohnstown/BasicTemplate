@@ -5,6 +5,8 @@ is featured: true
 main-image: "/uploads/Knowledge_Action_Power-47d791.jpg"
 ---
 
+Congressman Keith Rothfus, Senator Pat Toomey, Senator Bob Casey voting records, donors and tools you can use.
+
 Congressman Keith Rothfus' voting record - [Vote Smart](https://votesmart.org/candidate/key-votes/119466/keith-rothfus#.WaRLViiGNPa)
 
 Congressman Keith Rothfus' campaign donors - [Open Secrets](http://www.opensecrets.org/members-of-congress/summary?cid=N00031253&cycle=2018&type=C)
