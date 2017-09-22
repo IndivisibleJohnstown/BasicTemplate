@@ -4,7 +4,7 @@ date: 2017-09-22 08:28:00 -04:00
 is featured: true
 main-image: "/uploads/Mom_Dad%20Website%20Banner.jpg"
 call-script-text: |+
-  AMPLE CALL SCRIPT
+  SAMPLE CALL SCRIPT
 
   **Caller:** Hello! My name is [ ] and I’m calling from [part of state]. Can you tell me how Senator [ ] will vote on the Graham-Cassidy health care bill if it comes up for a vote?
 
