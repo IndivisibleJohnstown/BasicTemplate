@@ -59,7 +59,7 @@ Graham-Cassidy is more of the same earlier attempts at repeal and replace the AC
 
  While, the ACA needs some fixing, the Republican insistence on throwing the baby out with the bathwater is reckless, morally lacking and in direct opposition to what polls now show as the will of most Americans.  We have until September 30, 2017 to convince the Senate we reject the Make America Sick Again bill known as Graham-Cassidy.
 
-Along with our own Senator Pat Toomey (R-PA) here are the Senators we have identified who may be persuaded to vote against this bad legislation.  Above is a script outline for you to use, if you so desire.  Please call as often as you can.
+Along with our own hard line Senator Pat Toomey (R-PA) here are the Senators we have identified who may be persuaded to vote against this bad legislation.  Above is a script outline for you to use, if you so desire.  Please call as often as you can.
 
 Pat Toomey (PA) – 202.224.4254
 
