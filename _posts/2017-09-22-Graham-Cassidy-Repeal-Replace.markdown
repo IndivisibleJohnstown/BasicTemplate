@@ -45,7 +45,7 @@ Mom stayed in Assisted Living for another year but then her Parkinson’s began 
 ![Nest Egg.jpg](/uploads/Nest%20Egg.jpg)
 
 Remember their nest egg?  That egg got shattered.  Mom started out getting the therapy she needed, until the money ran out.  This is to say, she had reached her insurance cap.  After that, there was no more therapy to improve her ability to swallow or to exercise her body or to stimulate her mind.
-After decades of paying for insurance, the system began to fail her.  To the point that the care she received consisted of administering medications, getting her out of bed, helping her dress and making sure she ate her meals.  And who paid for that?  Medicare and Medicaid. You see, Mom had lost her wealth to healthcare and was now eligible for Medicaid.  Without Medicaid, I don't know what we kids would have done.
+She was permanently tethered to her feeding tube. After decades of paying for insurance, the system began to fail her.  To the point that the care she received consisted of administering medications, getting her out of bed, helping her dress and making sure she ate her meals.  And who paid for that?  Medicare and Medicaid. You see, Mom had lost her wealth to healthcare and was now eligible for Medicaid.  Without Medicaid, I don't know what we kids would have done.
 
 Mom passed away in 2010, the year the Affordable Care Act (“Obamacare”) went into effect.  The only thing Mom had left was her life insurance which allowed us to bury her.  Full disclosure, we were more fortunate than most in that we inherited several thousand dollars.
 
