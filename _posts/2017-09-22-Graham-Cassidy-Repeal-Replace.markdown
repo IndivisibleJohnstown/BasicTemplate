@@ -2,7 +2,7 @@
 title: Graham-Cassidy and Mom & Dad
 date: 2017-09-22 08:28:00 -04:00
 is featured: true
-main-image: "/uploads/Mom_Dad%20Website%20Banner.jpg"
+main-image: "/uploads/Mom_Dad%20Website%20Banner-0b527e.jpg"
 call-script-text: |+
   SAMPLE CALL SCRIPT
 
