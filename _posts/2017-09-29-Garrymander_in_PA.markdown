@@ -2,7 +2,7 @@
 title: Stop Gerrymandering in PA
 date: 2017-09-29 12:18:00 -04:00
 is featured: true
-main-image: "/uploads/12%20District%20Map_Header.jpg"
+main-image: "/uploads/12%20District%20Map_Header-6ce172.jpg"
 call-script-text: |
   (Our article starts after this call script)
 
