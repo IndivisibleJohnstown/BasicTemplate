@@ -4,6 +4,8 @@ date: 2017-09-29 12:18:00 -04:00
 is featured: true
 main-image: "/uploads/12%20District%20Map_Header-d4443f.jpg"
 call-script-text: |
+  (Our article starts after this call script)
+
   My name is (    ) from zip code (     ) and I’m calling to urge (Rep. name) to support (**HB722** if addressing a house member), (**SB22** if addressing a Senator).
 
   I believe it is time the drawing of Pennsylvania’s electoral districts be taken out of the hands of politicians.  I am in favor of the creation of a citizen commission tasked with redrawing the electoral map based on population only.  Please pressure members of the State Government committee to bring this bill out of committee and to the floor for a full vote by the (House) (Senate)
