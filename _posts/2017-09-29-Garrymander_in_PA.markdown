@@ -26,7 +26,7 @@ The problem with this system is that each party uses sophisticated mapping softw
 
 ![PA Redistricting Map.jpg](/uploads/PA%20Redistricting%20Map.jpg)
 
-As of May 2017, the two party breakdown of registered voters in PA, according to the PA Department of State’s department of Voter Registration, consisted of 4,051,103 Democrats and 3,235,781 Republicans.  Yet the Commonwealth is represented on the federal level disproportionately by a party that is in the minority by close to 1 million voters.  In 2012, Democrats won slightly more than 50% of the total vote in Pennsylvania Federal House elections (50.5% in fact), yet only five of the state's 18 Federal Representatives are Democrats.  Historically, this inequity has existed no matter which party is in control.  The map gets redrawn to favor the ruling party.
+As of May 2017, the two party breakdown of registered voters in PA, according to the PA Department of State’s department of Voter Registration, consisted of 4,051,103 Democrats and 3,235,781 Republicans.  Yet the Commonwealth is represented on the federal level disproportionately by a party that is in the minority by close to 1 million voters.  In 2012, Democrats won slightly more than 50% of the total vote in Pennsylvania Federal House elections (50.5% in fact), yet only five of the state's 18 seats in the federal House of Representatives are Democrats.  Historically, this inequity has existed no matter which party is in control.  The map gets redrawn to favor the ruling party.
 
 ![Elephant_Donkey Painting.jpg](/uploads/Elephant_Donkey%20Painting.jpg)
 
