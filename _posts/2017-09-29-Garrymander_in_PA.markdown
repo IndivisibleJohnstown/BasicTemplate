@@ -37,6 +37,7 @@ However, these bills are stuck in committee by their Chairmen, Senator Mike Folm
 ![Unfair.jpg](/uploads/Unfair.jpg)
 
 Now is the time to apply pressure to these Chairmen along with our local representatives to bring these bills to the floor for an up or down vote.  Forcing this vote into the light of day needs to be done quickly before the window of opportunity closes.
+
 Please hit the phones and call your local rep.  Tell them the time has come for redistricting reform.
 
 ![Call Now.jpg](/uploads/Call%20Now.jpg)
@@ -102,7 +103,7 @@ Mount Pleasant, PA 15666
 (724) 423-6503 
 (717) 783-9311 
 
-**Senator Patrick Stefano  **
+**Senator Patrick Stefano**
 Senate Box 203032 
 Harrisburg, PA 17120-3032
 Room: 169 Main Capitol
