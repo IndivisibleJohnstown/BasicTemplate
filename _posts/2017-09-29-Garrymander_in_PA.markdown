@@ -17,6 +17,7 @@ verb.
 Manipulate the boundaries of (an electoral constituency) so as to favor one party or class.
 
 Psy·cho·graph·ics 
+
 noun.
 The study and classification of people according to their attitudes, aspirations, and other psychological criteria, especially in market research.
 
