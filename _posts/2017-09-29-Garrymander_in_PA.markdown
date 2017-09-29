@@ -30,31 +30,35 @@ Pennsylvanians have a rare opportunity to finally address Gerrymandering through
 
 However, these bills are stuck in committee by their Chairmen, Senator Mike Folmer (R-48th district - (717) 783-1707) and House member Daryl Metcalf (R-12th district - (717) 274-6735)
 
+![Unfair.jpg](/uploads/Unfair.jpg)
+
 Now is the time to apply pressure to these Chairmen along with our local representatives to bring these bills to the floor for an up or down vote.  Forcing this vote into the light of day needs to be done quickly before the window of opportunity closes.
 Please hit the phones and call your local rep.  Tell them the time has come for redistricting reform.
 
-Cambria County
+![Call Now.jpg](/uploads/Call%20Now.jpg)
 
-Bryan Barbin
+**Cambria County**
+
+**Bryan Barbin**
 413 Main Street
 Johnstown, PA 15901-1880
 (814) 536-9818  
 (717) 783-1491 
 
-Frank Burns
+**Frank Burns**
 535 Fairfield Avenue
 Johnstown, PA 15906 
 (814) 536-8400 
 (717) 772-8056 
 
-Tommy Sankey
+**Tommy Sankey**
 315 E. Market Street
 Suite B
 Clearfield, PA 16830 
 (814) 765-0609 
 (717) 787-7099 
 
-Senator Wayne Langerholc Jr. 
+**Senator Wayne Langerholc Jr.** 
 Senate Box 203035 
 Harrisburg, PA 17120-3035
 Room: 185 Main Capitol
@@ -73,28 +77,28 @@ Suite E
 Johnstown, PA 15904 
 (814) 266-2277 
 
-Somerset County
+**Somerset County**
 
-Matthew D. Dowling
+**Matthew D. Dowling**
 65 West Main Street
 Suite 200
 Uniontown, PA 15401 
 (724) 438-6100 
 (717) 783-5173 
 
-Carl Walker Metzgar
+**Carl Walker Metzgar**
 301 Georgian Place
 Somerset, PA 15501 
 (814) 443-4230 
 (717) 783-8756 
 
-Mike Reese
+**Mike Reese**
 2230 Mount Pleasant Road
 Mount Pleasant, PA 15666 
 (724) 423-6503 
 (717) 783-9311 
 
-Senator Patrick Stefano  
+**Senator Patrick Stefano  **
 Senate Box 203032 
 Harrisburg, PA 17120-3032
 Room: 169 Main Capitol
