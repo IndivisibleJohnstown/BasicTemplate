@@ -13,11 +13,11 @@ call-script-text: |
 
 Ger·ry·man·der
 
-verb
+verb.
 Manipulate the boundaries of (an electoral constituency) so as to favor one party or class.
 
 Psy·cho·graph·ics
-noun
+noun.
 The study and classification of people according to their attitudes, aspirations, and other psychological criteria, especially in market research.
 
 Like all states, Pennsylvania’s electoral districts are redrawn every 10 years after the Census.  Like many states, our district lines are decided by the Republicans or the Democrats, depending on which party controls the legislature the year after the Census is taken. 
