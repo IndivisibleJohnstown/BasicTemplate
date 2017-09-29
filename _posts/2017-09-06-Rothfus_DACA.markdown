@@ -6,7 +6,7 @@ categories:
 tags:
 - DACA
 - Dreamers
-is featured: false
+is featured: archive
 main-image: "/uploads/Rothfus%20DACA%20statement.png"
 call-script-text: |-
   Hello,
