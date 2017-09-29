@@ -20,7 +20,8 @@ Psy·cho·graph·ics
 noun
 The study and classification of people according to their attitudes, aspirations, and other psychological criteria, especially in market research.
 
-Like all states, Pennsylvania’s electoral districts are redrawn every 10 years after the Census.  Like many states, our district lines are decided by the Republicans or the Democrats, depending on which party controls the legislature the year after the Census is taken.  
+Like all states, Pennsylvania’s electoral districts are redrawn every 10 years after the Census.  Like many states, our district lines are decided by the Republicans or the Democrats, depending on which party controls the legislature the year after the Census is taken. 
+ 
 The problem with this system is that each party uses sophisticated mapping software to identify voters who are friendly to the party in power.  This mapping software utilizes psychographics to determine who is or is not friendly to the ruling party based on personal data ranging from Social Media posts to what magazines are delivered to our homes.  This data is then used to draw maps that all but guarantee the voters in these districts deliver a candidate running on the ruling party’s ticket.
 
 ![PA Redistricting Map.jpg](/uploads/PA%20Redistricting%20Map.jpg)
