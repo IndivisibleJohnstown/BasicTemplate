@@ -1,6 +1,11 @@
 ---
 title: Rothfus Toes the Trump Line on DACA
 date: 2017-09-06 09:07:00 -04:00
+categories:
+- Immigration
+tags:
+- DACA
+- Dreamers
 is featured: false
 main-image: "/uploads/Rothfus%20DACA%20statement.png"
 call-script-text: |-
