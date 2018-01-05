@@ -3,23 +3,6 @@ title: Mom & Dad- A Personal Healthcare Story
 date: 2017-09-22 08:28:00 -04:00
 is featured: false
 main-image: "/uploads/Mom_Dad%20Website%20Banner-51b111.jpg"
-call-script-text: |+
-  SAMPLE CALL SCRIPT - (Our personal story follows)
-
-  **Caller:** Hello! My name is [ ] and I’m calling from [part of state]. Can you tell me how Senator [ ] will vote on the Graham-Cassidy health care bill if it comes up for a vote?
-
-  **Staffer:** The Senator hasn’t reviewed the text of the bill yet and hasn’t taken a position on it. There is no vote scheduled on that bill though.
-
-  **Caller:** I want Senator [ ] to oppose Graham-Cassidy. The bill is just like other TrumpCare bills in that it destroys Medicaid as we know it by turning Medicaid into a capped system. This hurts children with disabilities, seniors, and even victims of natural disasters like Harvey and Irma. It also takes away funding to help people afford health insurance through the marketplace, and it hurts states that have expanded Medicaid.
-
-  **Staffer:** Obamacare is a failure. The Senator believes we must stabilize the market and lower premiums.
-
-  **Caller:** If that’s what the Senator wants to do, then supporting the bipartisan, transparent process that Senators Alexander and Murray are leading through regular order would be a better option than supporting the Graham-Cassidy bill. I expect Senator [ ] to respect regular order and reject the Graham-Cassidy bill if it comes to a vote.
-
-  **Staffer:** I’ll let the Senator know your thoughts.
-
-  **Caller:** Yes, please do. I will be watching this vote closely and I expect Senator [ ] to oppose. Please take down my contact information so you can let me know what Senator [ ] decides to do.
-
 ---
 
 I was blessed from day one.  I was given the best parents any child could ask for.  I was the last of 4 children born to my Dad, a high school teacher and Mom, a stay at home mother and, later, a secretary for a school district.  They worked hard, taught us to be responsible and caring and prepared us for the challenges of life.
