@@ -1,5 +1,5 @@
 ---
-title: Graham-Cassidy and Mom & Dad- A Personal Healthcare Story
+title: Mom & Dad- A Personal Healthcare Story
 date: 2017-09-22 08:28:00 -04:00
 is featured: false
 main-image: "/uploads/Mom_Dad%20Website%20Banner-51b111.jpg"
