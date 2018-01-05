@@ -22,8 +22,8 @@ Who:    Presented by Kadida Kenner, sponsored by Indivisible
 
     The Why Courts Matter – Pennsylvania coalition plays a unique role in educating Pennsylvanians about the importance of the federal judiciary.
 
-    The issues you care about the most will eventually be arbitrated in federal courts. From our district courts up to the U.S. Supreme Court, we must advocate for mainstream, independent, fair, qualified and diverse judicial nominees who will not be rubber stamps for an out-of-control administration.
+    The issues you care about the most will eventually be arbitrated in federal courts.  From our district courts up to the U.S. Supreme Court, we must advocate for qualified, mainstream, independent, fair and diverse judicial nominees who will not be rubber stamps for an out-of-control administration.
 
-      “We are seeing the President appoint wholly unqualified and partisan “loyalists” to our Federal benches”, said Mary Lou Davis of Indivisible Johnstown.  “And our elected representatives in Congress are rubber stamping these lifetime appointments.  We are happy to present an eye opening experience to the public whom we hope to empower through information and action”.  
+"We are seeing the President appoint wholly unqualified and partisan "loyalists" to our Federal benches", said Mary Lou Davis of Indivisible Johnstow.  "And our elected representatives in Congress are rubber stamping these lifetime appointmenst.  We are happy to present an eye opening experience to the public whom we hope to empower through information and action".
 
-More information is online at facebook.com/indivisiblejohnstown and www.indivisiblejohnstown.org.
+Make plans to join us this for Why Courts Matter.
