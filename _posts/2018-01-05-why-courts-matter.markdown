@@ -26,5 +26,3 @@ Indivisible Johnstown is pleased to present Kadida Kenner of Why Courts Matter f
       “We are seeing the President appoint wholly unqualified and partisan “loyalists” to our Federal benches”, said Mary Lou Davis of Indivisible Johnstown.  “And our elected representatives in Congress are rubber stamping these lifetime appointments.  We are happy to present an eye opening experience to the public whom we hope to empower through information and action”.  
 
 More information is online at facebook.com/indivisiblejohnstown and www.indivisiblejohnstown.org.
-
-    
