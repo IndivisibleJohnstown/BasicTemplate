@@ -1,7 +1,7 @@
 ---
 title: You're invited to "Why Courts Matter"
 date: 2018-01-05 09:17:00 -05:00
-is featured: true
+is featured: false
 main-image: "/uploads/Why%20Courts%20Matter-463c58.jpg"
 event-start-date: 2018-01-11 18:00:00 -05:00
 event-end-date: 2018-01-11 19:30:00 -05:00
